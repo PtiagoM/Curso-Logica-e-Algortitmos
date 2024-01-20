@@ -1,2 +1,2 @@
-# Curso-Logica e Algortitmos
- Conteúdo produzido durante o curso de lógica da programação e algotimos do Curso em Vídeo usando Portugol
+# Conteúdo TPA 1º Bimestre
+ Conteúdo de Técnicas de Programação e Algotitmos do 1° bimestre, em JAVA
